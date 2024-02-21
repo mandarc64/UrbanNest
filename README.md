@@ -42,8 +42,5 @@ Once the application is running, you can explore the various features of the Urb
 ## Contributing
 Contributions to the UrbanNest project are welcome! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
-
 ## Project Link
 You can view the project at: [https://urbannest.pages.dev/](https://urbannest.pages.dev/)
