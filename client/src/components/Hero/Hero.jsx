@@ -18,14 +18,14 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Discover <br />
-              Most Suitable
+              Explore <br />
+              The Ideal
               <br /> Property
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Find a variety of properties that suit you very easilty</span>
-            <span>Forget all difficulties in finding a residence for you</span>
+            <span>Experience the simplicity of finding a range of properties perfectly tailored to your preferences.</span>
+            <span>Leave behind the challenges of locating your ideal home.</span>
           </div>
 
           <SearchBar/>
@@ -33,7 +33,7 @@ const Hero = () => {
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
               <span>
-                <CountUp start={8800} end={9000} duration={4} /> <span>+</span>
+                <CountUp start={6800} end={7000} duration={4} /> <span>+</span>
               </span>
               <span className="secondaryText">Premium Product</span>
             </div>
