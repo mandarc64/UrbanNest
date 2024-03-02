@@ -1,10 +1,10 @@
 :root {
-  --primary: #ff6b6b;
-  --secondary: #f7f7f7;
-  --black: #333333;
-  --blue-gradient: linear-gradient(97.05deg, #4ecdc4 3.76%, #ff6b6b 100%);
+  --primary: #ff4757;
+  --secondary: #7bed9f;
+  --black: #2f3542;
+  --blue-gradient: linear-gradient(97.05deg, #5352ed 3.76%, #ff4757 100%);
   --orange-gradient: linear-gradient(270deg, #ffb978 0%, #ff922d 100%);
-  --blue: #4ecdc4;
+  --blue: #5352ed;
   --lightBlue: #eeeeff;
   --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
 }
