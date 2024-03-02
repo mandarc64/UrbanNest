@@ -1,5 +1,5 @@
 import express from 'express';
-import { bookVisit, cancelBooking, createUser, fav, getAllBookings, getallfav } from '../controllers/usercntrl.js';
+import { bookVisit, cancelBooking, createUser, fav, getAllBookings, getallfav } from '../controllers/userCntrl.js';
 const router = express.Router()
 
 router.post("/register", createUser)
