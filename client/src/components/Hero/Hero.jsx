@@ -19,7 +19,7 @@ const Hero = () => {
             }}
             >
               Discover <br />
-              The Ideal
+              Most Suitable
               <br /> Property
             </motion.h1>
           </div>
